@@ -9,7 +9,6 @@
             <div class="flex flex-column align-items-center ml-6 md:ml-8"><span class="text-900 font-medium mb-2">Order Date</span><span class="text-700">{{formatDate(order.created_at)}}</span></div>
           </div>
         </div>
-  
         <div class="flex flex-column md:flex-row md:align-items-center border-bottom-1 surface-border py-5">
           <img :src="'http://localhost/real-estate-api/storage/app/public/' + this.orders.properties[index].image_path" class="w-15rem flex-shrink-0 md:mr-6" />
           <div class="flex-auto mt-3 md:mt-0">
