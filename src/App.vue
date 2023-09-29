@@ -3,8 +3,12 @@
 </script>
 
 <template>
-  <RouterView />
+  <RouterView id="body"/>
 </template>
 
-<style scoped>
+<style>
+
+#body{
+  background-color: #ffffff;
+}
 </style>

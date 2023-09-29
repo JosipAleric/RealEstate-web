@@ -24,22 +24,22 @@
           Fakultetu prirodoslovno-matematičkih i odgojnih znanosti (FPMOZ) na
           Sveučilištu u Mostaru.<br /><br />
           Cilj projekta je napraviti Full-Stack web aplikaciju preko koje će se
-          moći kupovati određeni automobili iz ponude koji nudi Salon, a
+          moći kupovati određene nekretnine iz ponude koji nudi aplikacija, a
           tehnologije korištene za ovaj projekt biti će prikazane u nastavku.
           Aplikacija je osmišljena na način da ima 3 vrste korsinika:
           <b> Gost</b>, <b> Kupac</b> i <b>Administrator</b>. <br /><br />
 
           <b>Gost</b> je korisnik koji privremeno posjećuje stranicu te nema
-          račun spremljen u bazi. Može pregledavati stranicu i automobile iz
+          račun spremljen u bazi. Može pregledavati stranicu i nekretnine iz
           ponude bez mogućnosti kupovine istih. Gost se može registrirati kao
           korisnik preko forme koja mu je dostupna na web stranici. Nakon
           ispravno unesenih podataka vrši se registracija korisnika te gost
-          postaje <b>Kupac</b>. Kupac ima mogućnosti kupovine automobila iz
+          postaje <b>Kupac</b>. Kupac ima mogućnosti kupovine nekretnina iz
           ponude, uređivanje korisničkog profila itd... <br /><br />
 
           <b>Administrator</b> je korisnik koji ima posebne ovlasti u odnosu na
           druge vrste korisnika. On održava rad sustava, dodaje i briše
-          automobile i korisnike, upravlja bazama podataka itd...
+          nekretnine i korisnike, upravlja bazama podataka itd...
         </p>
       </div>
       <Divider layout="horizontal" align="center" class="my-8">
